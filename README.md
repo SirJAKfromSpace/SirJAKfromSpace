@@ -7,13 +7,11 @@
 
 - I’m looking to collaborate on **making video games**
 
-- All of my projects are available at [https://bit.ly/jakfromspace](https://bit.ly/jakfromspace)
-
-- I regularly write articles in [my imagination](my imagination)
+- All of my projects are available at [jakfromspace.pyany.com](https://bit.ly/jakfromspace)
 
 - Ask me about **games, anime and coding**
 
-- You can reach me at **[mailto:jawad.aziz.khan.jak@gmail.com](jawad.aziz.khan.jak@gmail.com)**
+- You can reach me at **[jawad.aziz.khan.jak@gmail.com](mailto:jawad.aziz.khan.jak@gmail.com)**
 
 - Fun fact: **stupid projects are the 'funnest' projects**
 
