@@ -22,17 +22,3 @@
 </p>
 
 <br>
-
-<span>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sirjakfromspace&show_icons=true" alt="sirjakfromspace"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjakfromspace&layout=compact" alt="sirjakfromspace" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sirjakfromspace" alt="sirjakfromspace"/>
-&nbsp;
-<span align="center">
-<a href="https://linkedin.com/in/jawadazizkhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jawadazizkhan" height="30" width="30" /></a>&nbsp;
-<a href="https://instagram.com/jakfromspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jakfromspace" height="30" width="30" /></a>&nbsp;
-<a href="https://www.youtube.com/c/jawadazizkhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jawadazizkhan" height="30" width="30" /></a>
-
-</span>
-</span>
