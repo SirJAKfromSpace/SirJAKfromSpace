@@ -3,8 +3,8 @@
 
 <br>
 
-- Right now I’m working on **Photo Sharing with Flutter**
-- I want to learn **Swift and Godot**
+- Right now I’m working on **a Survey Engine**
+- I want to learn **, Swift and Godot**
 - Looking to collaborate on **making video games**
 - Check out my website at [jakfromspace.me](https://jakfromspace.me)
 - Chat me up about **games, anime and tech**
