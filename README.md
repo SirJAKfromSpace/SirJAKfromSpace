@@ -4,12 +4,12 @@
 <br>
 
 - Right now I’m working on **a Survey Engine**
-- I want to learn **, Swift and Godot**
-- Looking to collaborate on **making video games**
+- I want to learn, **Swift and Godot**
+- Looking to collaborate on **making games**
 - Check out my website at [jakfromspace.me](https://jakfromspace.me)
 - Chat me up about **games, anime and tech**
 - You can email me at **[jawad.aziz.khan.jak@gmail.com](mailto:jawad.aziz.khan.jak@gmail.com)**
-- Fun fact: **stupid projects are the 'funnest' projects**
+- Fun fact: **building stupid projects are the most fun!**
 
 <br>
 
