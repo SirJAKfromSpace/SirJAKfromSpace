@@ -3,11 +3,11 @@
 
 <br>
 
-- Right now I’m working on **Node and Flutter apps**
-- I want to learn, **.NET and Rust**
+- Right now I’m working on **Node.js, Python and Flutter apps**
+- I want to learn, **Rust and Godot**
 - Looking to collaborate on **making games**
 - Check out my website at [jakfromspace.me](https://jakfromspace.me)
-- Chat me up about **games, anime and tech**
+- Chat me up about **games, tech and anime**
 - You can email me at **[jawadazizkhan.jak@gmail.com](mailto:jawad.aziz.khan.jak@gmail.com)**
 
 <br>
